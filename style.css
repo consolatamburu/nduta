@@ -1,0 +1,58 @@
+p{
+    font-family: MathJax_Main;
+    backdrop-filter: blur(20px) ;
+    text-decoration: chartreuse;
+color: fuchsia;
+
+}
+button{
+    color: red;
+    padding: 15px;
+    text-align: center;
+    font-size: 16px;
+    background-color: blue;
+    border:0px;
+    margin-bottom: 12x;
+    image-orientation: flip;
+
+}
+td,th{
+    border: 2px solid black;
+    font-family: Chandas;
+    padding-right: 10px;
+    text-align: center;
+    color: dodgerblue;
+    backdrop-filter: initial;
+    background-clip: border-box;
+    background-color: fuchsia;
+    margin: 0px;
+    mso-endnote-numbering: alpha-lower;
+
+}
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+h1{
+    background-color: aqua;
+    font-size: large;
+    color:deeppink;
+    alignment: bottom;
+}
+h1{
+    background-color: blue;
+    font-size: medium;
+    color: cornsilk;
+}
+h1,ul{
+    background-color: darkgreen;
+    font-family: "Lohit Assamese";
+    font-size: large;
+}
+h2,ul{
+    background-color: darkviolet;
+    font-family: "Century Schoolbook L";
+    font-style: italic;
+    font-size: large;
+
+}

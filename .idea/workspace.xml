@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27b38319-9ec8-46b7-b3d4-478095ffd1d8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KOPnHyTFbUV9DI5bgTgD1LrCDM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Desktop/TEE&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/IMAGES" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="parle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27b38319-9ec8-46b7-b3d4-478095ffd1d8" name="Changes" comment="" />
+      <created>1673842821870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673842821870</updated>
+      <workItem from="1673842830876" duration="2042000" />
+      <workItem from="1673845039112" duration="351000" />
+      <workItem from="1673845450029" duration="4145000" />
+      <workItem from="1673849913778" duration="202000" />
+      <workItem from="1673850282549" duration="3625000" />
+      <workItem from="1673930455727" duration="2374000" />
+      <workItem from="1673933411154" duration="8171000" />
+      <workItem from="1674017005191" duration="7065000" />
+      <workItem from="1674026139094" duration="1002000" />
+      <workItem from="1674103773817" duration="7667000" />
+      <workItem from="1674115481878" duration="105000" />
+      <workItem from="1674120799938" duration="9000" />
+      <workItem from="1674127282274" duration="44000" />
+      <workItem from="1674190051068" duration="60000" />
+      <workItem from="1674190150833" duration="21000" />
+      <workItem from="1674190961401" duration="397000" />
+      <workItem from="1674192210631" duration="432000" />
+      <workItem from="1674192794998" duration="42000" />
+      <workItem from="1674192892973" duration="12000" />
+      <workItem from="1674192971020" duration="29000" />
+      <workItem from="1674193107952" duration="26000" />
+      <workItem from="1674193248340" duration="21000" />
+      <workItem from="1674194054389" duration="32000" />
+      <workItem from="1674194195703" duration="308000" />
+      <workItem from="1674198564247" duration="140000" />
+      <workItem from="1674198739634" duration="12000" />
+      <workItem from="1674450821357" duration="159000" />
+      <workItem from="1674451072341" duration="63000" />
+      <workItem from="1674451205008" duration="82000" />
+      <workItem from="1674451355527" duration="15000" />
+      <workItem from="1674452698397" duration="150000" />
+      <workItem from="1674454718394" duration="75000" />
+      <workItem from="1674537498925" duration="75000" />
+      <workItem from="1674538077223" duration="7198000" />
+      <workItem from="1674622572736" duration="848000" />
+      <workItem from="1674623723387" duration="160000" />
+      <workItem from="1674624102427" duration="1230000" />
+      <workItem from="1674633430545" duration="22000" />
+      <workItem from="1674634549106" duration="265000" />
+      <workItem from="1674635037157" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

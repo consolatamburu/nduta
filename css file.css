@@ -1,0 +1,17 @@
+th{
+    background-color: blue;
+    alignment: center;
+    color: fuchsia;
+    text-underline: red;
+    font-size: large;
+    text-decoration: darkgray;
+}
+td{
+    background-color: blueviolet;
+    alignment: right;
+    color: deepskyblue;
+    font-size: large;
+}
+table{
+    border:
+}

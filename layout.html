@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>CSS Layout float</title>
+    <style>
+        *{
+            box-sizing: border-box;
+        }
+        body{
+            font-family: arial,helvetica,sans-serif;
+        }
+        /style the header*/
+        header{
+            background-color:blue;
+            padding: 30px;
+            text-align: center;
+            color: white;
+        }
+        /*create two columns that float next to each other*/
+        nav{
+            float: left;
+            width: 30px;
+            height: 300px;/* only fo demonstration,should b removed*/
+            background: #ccc;
+            padding: 20px;
+        }
+        /* style the list inside the menu*/
+        nav ul{
+            list-style-type: none;
+            padding: 0px;
+        }
+        article{
+            float: left;
+            padding: 20px;
+            width: 70%;
+            background-color: #f1f1f1;
+            height: 300px;/* onlt for demonstration should be removed*/
+        }
+        /*clear  floats after the column*/
+        sction::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+        /* style the footer*/
+        footer{background-color: red;
+            padding: 10px;
+            text-align: center;
+            color: white;
+        }
+        /* responsive layout- makes the two columns/boxes on top of each other instesd of next to each other,on small screens*/
+        @media (max-width: 600px) { nav,article{
+            width: 100%;
+            height: auto;
+        }
+
+        }
+    </style>
+</head>
+<body>
+<h2>CSS Layout float</h2>
+<p>In this example ,we have created a header ,two column/boxes and a Footer.On the smaller screen ,the columns will
+    stack on top of each other.</p>
+<p>Resize the browser window to see the responsiv effect (you will learn more about this in our next chapter</p>
+<header>
+    <h2>CITIES</h2>
+</header>
+<section>
+    <nav><ul>
+        <li><a href="#">london</a></li>
+        <li><a href="#">paris</a></li>
+        <li><a href="#">tokyo</a></li>
+        <li></li>
+    </ul>
+    </nav>
+<article>
+    <h1>london</h1>
+    <p>london is the capital city of England. It is the most populous city in the unite kingdom,with a metropolitan
+        area of ovr 13 million habitants.</p>
+    <p>Standing on the River Thames,london has been a major settlement for two millennia,its history going to its
+        founding by the roman,who named it Londinium.</p>
+</article>
+</section>
+<footer>CITY OF LONDON</footer>
+<img src="images/london%20city.jpeg" alt="" height="100px" width="100px">
+
+
+</body>
+</html>
